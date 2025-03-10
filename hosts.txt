@@ -1,0 +1,21 @@
+#[中国移动]
+127.0.0.1 config.cmpassport.com
+127.0.0.1 www.cmpassport.com
+127.0.0.1 wap.cmpassport.com
+127.0.0.1 onekey1.cmpassport.com
+127.0.0.1 log1.cmpassport.com
+127.0.0.1 smsks1.cmpassport.com
+127.0.0.1 verify.cmpassport.com
+
+# [中国联通]
+127.0.0.1 opencloud.wostore.cn
+127.0.0.1 auth.wosms.cn
+127.0.0.1 id.mail.wo.cn
+127.0.0.1 mdn.open.wo.cn
+127.0.0.1 hmrz.wo.cn
+127.0.0.1 nishub1.10010.com
+127.0.0.1 enrichgw.10010.com
+
+# [中国电信]
+127.0.0.1 id6.me
+127.0.0.1 open.e.189.cn
