@@ -6,6 +6,8 @@
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 smsks1.cmpassport.com
 127.0.0.1 verify.cmpassport.com
+127.0.0.1 log2.cmpassport.com
+127.0.0.1 config2.cmpassport.com
 
 # [中国联通]
 127.0.0.1 opencloud.wostore.cn
